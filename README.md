@@ -1,4 +1,4 @@
-# INstagram Clone
+# Instagram Clone
 
 ## Built By [DannyMyles](https://github.com/DannyMyles/Instagram/)
 
