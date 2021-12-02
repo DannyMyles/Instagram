@@ -7,8 +7,7 @@ from django.urls import path, include
 # Views
 from users import views as users_views
 
-# Para poder visualizar las imgs durante desarrollo se agrega el mas y la linea
-# Ademas se deben cambiar la mediaurl y media root en settings
+
 urlpatterns = [
     # Admin
     path('admin/', admin.site.urls),
