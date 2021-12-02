@@ -1,4 +1,4 @@
-# Gallery
+# INstagram Clone
 
 ## Built By [NazarineWasonga](https://github.com/DannyMyles/Instagram/)
 
