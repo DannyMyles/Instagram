@@ -1,9 +1,9 @@
-# INstagram Clone
+# Instagram Clone
 
 ## Built By [DannyMyles](https://github.com/DannyMyles/Instagram/)
 
 ## Description
-This is an application that allows users to view images. Image details are stored in categories and tagged by Location. The admin is responsible for uploading, editing or deleting images.
+This is an Instagram clone app, you can post image and like,share and comment.
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
