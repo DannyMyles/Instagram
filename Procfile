@@ -1,1 +1,1 @@
-web: gunicorn instamyles.wsgi
+web: gunicorn Instagram.wsgi
