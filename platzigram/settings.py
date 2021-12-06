@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'platzigram.wsgi.application'
+WSGI_APPLICATION = 'platzigram.wsgi'
 
 
 # Database
