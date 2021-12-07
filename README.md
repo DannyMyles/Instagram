@@ -40,7 +40,7 @@ Admin should:
 | To filter by Location  | **Click drop-down on navbar** | Users can view images by Location|
 
 ## Application link
-click [here]()
+click [here](https://me-gallery.herokuapp.com/)
 
 
 ## SetUp / Installation Requirements
