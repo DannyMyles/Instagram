@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
-psycopg2-binary = "*"
 dj-database-url = "*"
 pillow = "*"
 gunicorn = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 
