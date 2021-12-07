@@ -40,7 +40,7 @@ Admin should:
 | To filter by Location  | **Click drop-down on navbar** | Users can view images by Location|
 
 ## Application link
-click [here](https://instamyles.herokuapp.com/)
+click [here]()
 
 
 ## SetUp / Installation Requirements
